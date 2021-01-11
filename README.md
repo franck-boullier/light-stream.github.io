@@ -3,7 +3,7 @@
 <img width="527" alt="img" src="https://github.com/stylekit/img/blob/master/Screenshot 2020-02-21 at 10.19.29.png?raw=true">
 
 ### What is it
-This is a custom Jekyll theme that was made for: [https://lightstream.to](https://lightstream.to)
+This is a custom Jekyll theme that was made for: [https://light-stream.github.io/](https://light-stream.github.io/)
 
 ### How does it work
 - Uses Jekyll + Markdown to manage content
